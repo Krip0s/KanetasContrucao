@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import KanetasDMais from './assets/Natal-Photoroom.png'
+import KanetasDMais from "./assets/KanetasLogo.svg"
 import './App.css'
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       </style>
       <div>
         <a >
-          <img src={KanetasDMais} className="logo" alt="KanetasD+" />
+          <img src={KanetasDMais} className="logo" alt="KanetasD+" width={600} />
         </a>
       </div>
       <h1>Loja online da KanetasD+  </h1>
