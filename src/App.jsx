@@ -13,7 +13,7 @@ function App() {
       </style>
       <div>
         <a >
-          <img src={KanetasDMais} className="logo" alt="KanetasD+" width={600} />
+          <img src={KanetasDMais} className="logo" alt="KanetasD+" width={800} />
         </a>
       </div>
       <h1>Loja online da KanetasD+  </h1>
